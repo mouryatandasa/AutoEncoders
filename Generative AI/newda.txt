@@ -1,0 +1,22 @@
+Layers                          Technology
+
+Frontend		-	Streamlit
+Backend			-	FastAPI
+Face Detection		-	MTCNN
+Face Recognition	-	FaceNet
+Image Processing	-	OpenCV, PIL
+Similarity		-	Cosine Similarity
+Database		-	SQLite
+Language		-	Python
+ML Framework		-	TensorFlow
+Deployment		-	Streamlit Cloud / Render
+
+
+1st phase loo face detect cheddam then ,
+2 nd phase loo recognization,
+3rd loo attendance logic radham ,
+4th loo manual override( if model fails facult recorrect it )
+5th loo db ni integrate chedham ,
+6th loo report and export ,
+7th loo polishing and optimizing ,
+and final ga deployment.
